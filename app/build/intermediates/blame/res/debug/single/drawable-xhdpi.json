@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\MulThreadContinuableDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\MulThreadContinuableDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\MulThreadContinuableDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\MulThreadContinuableDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\MulThreadContinuableDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\MulThreadContinuableDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
