@@ -15,7 +15,7 @@
         android:id="@+id/editpath"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="http://bdy.regenttechpark.com/tools/video/0927090945585761328039.mp4"
+        android:text="http://p20.qhimgs3.com/dr/240_240_/t01f7bde3f28306d8af.jpg"
         />
 
     <Button
